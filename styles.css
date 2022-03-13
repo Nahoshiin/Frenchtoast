@@ -40,3 +40,9 @@ p{
     color: rgb(245, 241, 241);
 
 }
+h3{
+    width: 100%;
+        
+    display: flex;
+    justify-content: center;
+}
