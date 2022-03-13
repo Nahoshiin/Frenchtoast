@@ -1,0 +1,42 @@
+div {
+   background-color: rgb(122, 233, 218); 
+
+
+}
+
+h2 {
+    background-color: rgb(227 121 45 / 22%);
+    height: 44px;
+    color: aliceblue;
+    font-weight: 200;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.whatever {
+    color: rgb(245, 241, 241);
+}
+
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+p{
+    width: 100%;
+        
+    display: flex;
+    justify-content: center;
+
+}
+
+.p2{
+    background-color: rgb(227 121 45 / 22%);
+    color: rgb(245, 241, 241);
+
+}
